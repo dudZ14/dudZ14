@@ -7,7 +7,7 @@
   
   <div>
     ⚙️ Software Engineering and Cybersecurity @ University of Lisbon<br>
-    🌌 Curious about the universe, physics, and philosophy <br><br>
+    🌌 Curious about the universe, physics, science and philosophy <br><br>
   </div>
 </div>
 
