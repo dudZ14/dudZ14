@@ -1,7 +1,7 @@
 ### 🌠 Hello there
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 20px;">
-    <img src="https://media1.tenor.com/m/kgpMKe9_5wEAAAAC/abstract-sphere.gif" alt="Image" width="230" height="250">
+    <img src="https://media1.tenor.com/m/kgpMKe9_5wEAAAAC/abstract-sphere.gif" alt="Image" width="230" height="260">
   </div>
   <br>
   
