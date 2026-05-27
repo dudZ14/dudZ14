@@ -8,6 +8,7 @@
   <div>
     ⚙️ Software Engineering and Cybersecurity @ University of Lisbon<br>
   </div>
+  <br>
 </div>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
